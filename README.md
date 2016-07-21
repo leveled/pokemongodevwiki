@@ -1,21 +1,27 @@
 As the community has grown over the last few weeks it is clear that some centralization of effort will be useful. There are several different projects with roughly similar aims that may benefit from cross-pollination. I intend for this post to be an up-to-date archive of projects and development resources. This will allow new developers to be able to find projects which match their interests, learn the requisite knowledge necessary to contribute, and reduce redundancy across several projects. I am not the author of any of these resources, but given that most are publicly accessible repos or websites, I assume that it is fine if I post them here. If you are the author of one of these resources and would like me to remove it, feel free to send me a PM. 
 
 
-If you have a Pokémon Go resource which other developers may find useful send me a PM with a **concise description**. 
+If you have a Pokémon Go resource which other developers may find useful send me a PM with a **concise description**, and I will update the list. If you want to 
 
 
 #READ [THIS ](https://www.reddit.com/r/pokemongodev/comments/4td499/a_note_about_security/)BEFORE USING ANY OF THESE TOOLS!
+
+###PLEASE DO NOT SEND ME ANY PMS ASKING QUESTIONS ABOUT PROJECTS OR HOW TO USE THEM!
+
+###Update 7/21/16: Check out the [github page](https://github.com/leveled/pokemongodevwiki). This will allow you to see any updates that were made chronologically. If you want to change any of the content feel free to do a pull request and I will evaluate it.
+
 
 #Content
 - I. Works in Progress
     - Maps
     - APIs / Libraries 
-    - Mods/Other
+    - Mods / Other
+    - Bots
 - II. Game Mechanics / Resources
     - Network Communications
     - Reverse Engineering
     - Pokémon 
-- III. Open Research Questions / Topics      
+- III. Open Research Questions / Topics
 
 
 #I. Works in Progress
@@ -154,7 +160,7 @@ From github:
 Check main.js for examples
 ___
 
-#Mods/Other
+#Mods / Other
 
 ##Pokémon Go Notification System [[Github]] (https://github.com/jxmorris12/PokemonGo-Finder) 
 
@@ -211,13 +217,7 @@ From github:
 
 ___
 
-##Python Pokémon Go Bot [[Github]](https://github.com/j-e-k/pgoapi)
 
-From Discussion: 
-> Based on tejado/pgoapi (thanks). It does catching/movement/fort spinning/transferring bad pokemon. Caveat emptor, it's poorly documented and I haven't tested it on anyone else's machine...
-
-
-___
 
 
 
@@ -237,9 +237,33 @@ From discussion thread:
 > My aim with porygon is to make the wristband more useful. For what it's worth, I don't think it straddles the "cheating" line, so it should be usable without fearing the banhammer.
 At present, it's still in progress, mainly because Go doesn't have wristband support wired up yet.
 
+___
+#Bots 
+
+##Python Pokémon Go Bot [[Github]](https://github.com/PokemonGoF/PokemonGo-Bot)
+
+From github:
+>Features:
+
+>Search Fort(Spin Pokestop)
+Catch Pokemon
+Release low cp pokemon
+Walking as you
+
+___
+
+##Python Pokémon Go Bot [[Github]](https://github.com/j-e-k/pgoapi)
+
+From Discussion: 
+> Based on tejado/pgoapi (thanks). It does catching/movement/fort spinning/transferring bad pokemon. Caveat emptor, it's poorly documented and I haven't tested it on anyone else's machine...
+
+___
+
+##Java Pokémon Go Bot [[Github]](https://github.com/jabbink/PokemonGoBot/releases/)
 
 
 ___
+
 
 #II. Game Mechanics / Resources
 ##Network Communications:
@@ -292,6 +316,4 @@ ___
 
 [Collecting spawn data via location/time] (https://www.reddit.com/r/pokemongodev/comments/4tl8qq/we_dont_need_apis_for_spawns_if_we_track/)
 
-
-
-
+[Spawn location research] (https://www.reddit.com/r/pokemongodev/comments/4tu584/some_spawn_location_research/)
