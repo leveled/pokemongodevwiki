@@ -160,6 +160,13 @@ From github:
 Check main.js for examples
 ___
 
+##Swift API [[Github]] (https://github.com/lsapan/pgoapi-swift)
+
+From github:
+> This API is very much a work in progress, but it allows you to authenticate to the servers, as well as request information about the player, inventory, etc.
+
+____
+
 #Mods / Other
 
 ##Pokémon Go Notification System [[Github]] (https://github.com/jxmorris12/PokemonGo-Finder) 
@@ -251,6 +258,13 @@ Release low cp pokemon
 Walking as you
 
 ___
+
+##Python Pokémon Go Bot [[Github]](https://github.com/eggins/Pokemon-Go-Automation)
+
+From github:
+> A Pokemon Go Bot (work in progress) This will contain all of my updates and slow build progress on a fully automated Pokemon Go bot. More than happy to take on someone with me to build something awesome
+
+____
 
 ##Python Pokémon Go Bot [[Github]](https://github.com/j-e-k/pgoapi)
 
