@@ -305,8 +305,9 @@ Decoded GAME_MASTER protobuf file v0.1 [[protobuf]](https://gist.github.com/anon
 
 From [here](https://www.reddit.com/r/TheSilphRoad/comments/4tm8io/pokemon_go_link_dump/d5imx7t):
 
-[Evolution Calulator](https://3edgy6u.com/misc/pogoevo.html)  
-[Evolution Calulator 2](http://pidgeycalc.com/)   
+[Evolution Calculator](https://3edgy6u.com/misc/pogoevo.html)  
+[Evolution Calculator 2](http://pidgeycalc.com/)   
+[Evolution Calculator for Android](https://play.google.com/store/apps/details?id=com.pokefam.evolution.calculator.pokego)   
 [Best Moveset](https://www.reddit.com/r/TheSilphRoad/comments/4teoe2/best_move_sets_and_matchups_v2/)  
 [Evolution CP Calculator](http://pogotoolkit.com/)  
 [Max CP](http://pokemongo.gamepress.gg/pokemon-list)  
