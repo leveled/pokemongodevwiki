@@ -69,6 +69,13 @@ My next step is 1-click tunnel support so you can pull it up on your iPhone/Andr
 [Discussion thread] ( https://www.reddit.com/r/pokemongodev/comments/4tojmo/pokemon_go_map_desktop_app/)
 ___
 
+##Pokémon Go iOS App [[Github]] (https://github.com/ruffnecktsk/pokemap_live_ios)
+
+From github: 
+> iOS application with live pokemon go map
+
+____
+
 ##Pokémon Go Map for Telegram [[Github]] (https://github.com/robbcocco/PokemonGo-Map-forTelegram)
 
 From github:
