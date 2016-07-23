@@ -38,6 +38,7 @@ From github:
 There is a guide for installation [here](https://www.reddit.com/r/pokemongodev/comments/4t80df/wip_pokemon_go_map_visualization_google_maps_view/d5feu2f).
 
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4t80df/wip_pokemon_go_map_visualization_google_maps_view/)
+[Discussion thread v 2.0](https://www.reddit.com/r/pokemongodev/comments/4u6lwe/pokemap_v20_like_the_original_but_waaaaay_better/)
 ___
 ##Pokémon Go Map w/ Merged Features [[Github]](https://github.com/TheZ3ro/pkmngo-map) 
 
@@ -231,8 +232,13 @@ From github:
 
 ___
 
+##Pokémon Go IV Miner [[Website]] (http://www.pokemongonexus.com/
 
 
+From website:
+>Pokémon Go Nexus provides you with an easy way to see all of your pokémons' IVs! Just walk through the following steps so we can securely grab your Pokémon GO data.
+
+___
 
 
 ##MITMDump Decoder [[Github]] (https://github.com/bettse/mitmdump_decoder)
