@@ -10,6 +10,8 @@ If you have a Pokémon Go resource which other developers may find useful send m
 
 ###Update 7/21/16: Check out the [github page](https://github.com/leveled/pokemongodevwiki). This will allow you to see any updates that were made chronologically. If you want to change any of the content feel free to do a pull request and I will evaluate it.
 
+###The reddit thread is [here](https://www.reddit.com/r/pokemongodev/comments/4trjum/pok%C3%A9mon_go_development_archive_works_in_progress/)
+
 
 #Content
 - I. Works in Progress
@@ -27,7 +29,7 @@ If you have a Pokémon Go resource which other developers may find useful send m
 #I. Works in Progress
 #Maps 
 ____
-##Pokémon Go Map Visualization [[Github]](https://github.com/AHAAAAAAA/PokemonGo-Map) [[Github-Android]] (https://github.com/omkarmoghe/Pokemap) [[Website]](https://jz6.github.io/PoGoMap/)
+####Pokémon Go Map Visualization [[Github]](https://github.com/AHAAAAAAA/PokemonGo-Map) [[Github-Android]] (https://github.com/omkarmoghe/Pokemap) [[Website]](https://jz6.github.io/PoGoMap/)
 From github: 
 > Live visualization of all pokemon (with option to show gyms and pokestops) in your area. This is a proof of concept that we can load all nearby pokemon given a location. Currently runs on a Flask server displaying a Google Map with markers on it.
 
@@ -40,7 +42,7 @@ There is a guide for installation [here](https://www.reddit.com/r/pokemongodev/c
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4t80df/wip_pokemon_go_map_visualization_google_maps_view/)
 [Discussion thread v 2.0](https://www.reddit.com/r/pokemongodev/comments/4u6lwe/pokemap_v20_like_the_original_but_waaaaay_better/)
 ___
-##Pokémon Go Map w/ Merged Features [[Github]](https://github.com/TheZ3ro/pkmngo-map) 
+####Pokémon Go Map w/ Merged Features [[Github]](https://github.com/TheZ3ro/pkmngo-map) 
 
 From github:
 >This is a Work-In-Progress attempt to merge all Pokemon-Go-API Python project.
@@ -50,7 +52,7 @@ From github:
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4tkt8y/wip_pkmngo_map_merge_all_pythonproject_feature/) 
 ___
 
-##PokéGPS [[Website]] (https://www.reddit.com/r/pokemongodev/comments/4tc33k/wip_pokegps_locate_nearby_pokemon_in_phone_browser/)
+####PokéGPS [[Website]] (https://www.reddit.com/r/pokemongodev/comments/4tc33k/wip_pokegps_locate_nearby_pokemon_in_phone_browser/)
 
 From discussion thread:
 > Basically if you have your location services enabled and to GO servers are not on fire, this app queries for nearby pokemon and displays them on a map. The Pokeball = your current location returned by google apis.
@@ -61,7 +63,7 @@ This is intended to be a extremely developmental thing at present, but is receiv
 (https://www.reddit.com/r/pokemongodev/comments/4tc33k/wip_pokegps_locate_nearby_pokemon_in_phone_browser/)
 ___
 
-##Pokémon Go Desktop App [[Github]](https://github.com/mchristopher/PokemonGo-DesktopMap/releases)
+####Pokémon Go Desktop App [[Github]](https://github.com/mchristopher/PokemonGo-DesktopMap/releases)
 
 From github:
 > I just finished putting together an Electron wrapper around the wonderful PokemonGo-Map project.
@@ -70,14 +72,14 @@ My next step is 1-click tunnel support so you can pull it up on your iPhone/Andr
 [Discussion thread] ( https://www.reddit.com/r/pokemongodev/comments/4tojmo/pokemon_go_map_desktop_app/)
 ___
 
-##Pokémon Go iOS App [[Github]] (https://github.com/ruffnecktsk/pokemap_live_ios)
+####Pokémon Go iOS App [[Github]] (https://github.com/ruffnecktsk/pokemap_live_ios)
 
 From github: 
 > iOS application with live pokemon go map
 
 ____
 
-##Pokémon Go Map for Telegram [[Github]] (https://github.com/robbcocco/PokemonGo-Map-forTelegram)
+####Pokémon Go Map for Telegram [[Github]] (https://github.com/robbcocco/PokemonGo-Map-forTelegram)
 
 From github:
 > Live visualization of all the pokemon in your area. To use with a Telegram Bot. Request one here.
@@ -86,19 +88,19 @@ From github:
 
 
 ___
-##Pokémon Go Scanner (Mobile) [[Github]] (https://github.com/emeth-/pokelocater)
+####Pokémon Go Scanner (Mobile) [[Github]] (https://github.com/emeth-/pokelocater)
 
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4t995i/pokemongo_scanner_google_map_view_based_on_your/)
 
 ___
 
-##Pokérevs Map UI [[Map]] (http://pokerev.r3v3rs3.net/mapui/#1/-0/0) [[Website]] (http://pokerev.r3v3rs3.net/) (Github repos in discussion thread)
+####Pokérevs Map UI [[Map]] (http://pokerev.r3v3rs3.net/mapui/#1/-0/0) [[Website]] (http://pokerev.r3v3rs3.net/) (Github repos in discussion thread)
 
 [Discussion thread] ( https://www.reddit.com/r/pokemongodev/comments/4tj4m9/pokerevs_mapui_now_load_balanced_and_fast/)
 
 ___
 
-##Poképosition [[Website]] (http://pokeposition.com/) 
+####Poképosition [[Website]] (http://pokeposition.com/) 
 
 From discussion thread
 > PokePosition brings LIVE pokemon locations, gym details, lured pokestops and more, straight to your browser.
@@ -107,19 +109,19 @@ From discussion thread
 
 ____
 
-##Auto Updating Pokémon Go Map Scanner [[Github]](https://github.com/memelyfe/pokemongo-api-demo/tree/maps)
+####Auto Updating Pokémon Go Map Scanner [[Github]](https://github.com/memelyfe/pokemongo-api-demo/tree/maps)
 
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4t8ohw/autoupdating_pokemon_go_map_scanner/) 
 
 ____
 
-## Live Map of Wild Pokémon [[Website]] (https://skiplagged.com/pokemon)
+#### Live Map of Wild Pokémon [[Website]] (https://skiplagged.com/pokemon)
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4tm8tm/hey_guys_lets_work_together_on_a_live_map_of_wild/)
 
 ___
 
 #APIs / Libraries 
-##pgoapi - Pokémon Go API lib [[Github]] (https://github.com/tejado/pgoapi)
+####pgoapi - Pokémon Go API lib [[Github]] (https://github.com/tejado/pgoapi)
 
 From github:
 >pgoapi is a client/api/demo for Pokemon Go by https://github.com/tejado.
@@ -129,46 +131,46 @@ It allows automatic parsing of requests/responses by finding the correct protobu
 
 ___
 
-##Pokémon Go Proto Files [[Github]] (https://github.com/AeonLucid/POGOProtos)
+####Pokémon Go Proto Files [[Github]] (https://github.com/AeonLucid/POGOProtos)
 
 From github: 
 > This repository contains the ProtoBuf .proto files needed to decode the PokémonGo RPC.
 
 ____
 
-## Pokémon Go C# Library [[Github]](https://github.com/AeonLucid/POGOLib) 
+#### Pokémon Go C# Library [[Github]](https://github.com/AeonLucid/POGOLib) 
 
 From github:
 > POGOLib is written in C# and aims to be a community-driven PokémonGo API. Feel free to submit pull requests.
 
 ____
 
-##Client API Library in C# [[Github]] (https://github.com/FeroxRev/Pokemon-Go-Rocket-API)
+####Client API Library in C# [[Github]] (https://github.com/FeroxRev/Pokemon-Go-Rocket-API)
 
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4thw89/client_api_library_for_pokemon_go_in_c/)
 
 ___
-##Opensource C# API [[Github]](https://github.com/ernilos/PokemonGoApi)
+####Opensource C# API [[Github]](https://github.com/ernilos/PokemonGoApi)
 
 From github:
 > An API developed in C# with the premise to interact with Pokémon GO server.
 
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4tfszb/net_opensource_c_api/)
 ___
-## Java API [[Github]] ( https://github.com/Grover-c13/PokeGOAPI-Java/)
+#### Java API [[Github]] ( https://github.com/Grover-c13/PokeGOAPI-Java/)
 
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4t65mh/pokemongo_api_java_01/)
 
 ___
 
-##Node API [[Github]] ( https://github.com/Armax/Pokemon-GO-node-api) 
+####Node API [[Github]] ( https://github.com/Armax/Pokemon-GO-node-api) 
 
 From github:
 > Pokemon GO api node.js library, still WIP
 Check main.js for examples
 ___
 
-##Swift API [[Github]] (https://github.com/lsapan/pgoapi-swift)
+####Swift API [[Github]] (https://github.com/lsapan/pgoapi-swift)
 
 From github:
 > This API is very much a work in progress, but it allows you to authenticate to the servers, as well as request information about the player, inventory, etc.
@@ -177,7 +179,7 @@ ____
 
 #Mods / Other
 
-##Pokémon Go Notification System [[Github]] (https://github.com/jxmorris12/PokemonGo-Finder) 
+####Pokémon Go Notification System [[Github]] (https://github.com/jxmorris12/PokemonGo-Finder) 
 
 From github:
 > This is a fork of the popular PokemonGo-Map repository with the purpose of allowing users to search for specific Pokemon without having to constantly monitor the map of nearby Pokemon. This allows users to set a list of sought-after Pokemon and receive notifications through Pushbullet. All API and map functionality was left untouched.
@@ -185,7 +187,7 @@ From github:
 [Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4tp9jh/receive_notifications_when_rare_pokemon_pop_up/)
 ___
 
-##Pokémon Go MITM Node [[Github]] (https://github.com/rastapasta/pokemon-go-mitm-node)
+####Pokémon Go MITM Node [[Github]] (https://github.com/rastapasta/pokemon-go-mitm-node)
 
 From github:
 > Pokemon Go MITM Proxy - Intercepts the traffic between your Pokemon Go App and their servers, decodes the protocol and gives you a handy tool to enrich your own game experience by altering the data on the fly.
@@ -195,7 +197,7 @@ From github:
 
 ___
 
-##Pokémon Go MITM .Net Proxy [[Github]] (https://github.com/cstrachan88/PoGo-Proxy.NET)
+####Pokémon Go MITM .Net Proxy [[Github]] (https://github.com/cstrachan88/PoGo-Proxy.NET)
 
 From github: 
 > This project is a .net MITM proxy designed to read all the API messages sent between the Pokemon Go device and the Pokemon Go servers. By reading this data, you can make informed decisions about which Pokemon to keep, and so on.
@@ -204,7 +206,7 @@ From github:
 ___
 
 
-##Pokémon Go Optimizer [[Github]] (https://github.com/justinleewells/pogo-optimizer)
+####Pokémon Go Optimizer [[Github]] (https://github.com/justinleewells/pogo-optimizer)
 
 From github:
 > This tool shows you the IVs and information necessary to determine which Pokemon get ground into candy. Perfect for any trainer aspiring to be the very best.
@@ -213,7 +215,7 @@ From github:
 ___
 
 
-##Pokémon Go Plus [[Github]] (https://github.com/rubenvereecken/PokemonGo-Enhanced)
+####Pokémon Go Plus [[Github]] (https://github.com/rubenvereecken/PokemonGo-Enhanced)
 
 From github:
 >While this repository does not come with a lot of content, it does come with a dream.
@@ -223,7 +225,7 @@ From github:
 >This repository will contain a single-deploy suite of nifty little things that together will make up Pokemon Go Enhanced. What follows is a little overview of dreams (or as devs like to call it, a TODO list).
 
 ___
-##Pokémon Go Web Spoof [[Github]] (https://github.com/iam4x/pokemongo-webspoof)
+####Pokémon Go Web Spoof [[Github]] (https://github.com/iam4x/pokemongo-webspoof)
 
 From github:
 >Spoof your iOS device GPS location for Pokémon Go
@@ -232,7 +234,7 @@ From github:
 
 ___
 
-##Pokémon Go IV Miner [[Website]] (http://www.pokemongonexus.com/
+####Pokémon Go IV Miner [[Website]] (http://www.pokemongonexus.com/
 
 
 From website:
@@ -241,14 +243,14 @@ From website:
 ___
 
 
-##MITMDump Decoder [[Github]] (https://github.com/bettse/mitmdump_decoder)
+####MITMDump Decoder [[Github]] (https://github.com/bettse/mitmdump_decoder)
 
 From github:
 >A helper script for mitmproxy to decode protobuf serialized requests and responses. It is primarily intended to help in validating the IDLs for the protocol. As a intereting diversion, it also parses the GetMapObjects responses into a geojson format file that can be viewed using the 'ui'. The ui is completely clientside, so it should be hostable with any static file server (I use 'http-server').
 
 ___
 
-##SFIDA [[Github]] (https://github.com/numinit/porygon/wiki/protocol)
+####SFIDA [[Github]] (https://github.com/numinit/porygon/wiki/protocol)
 
 From github:
 >The Pokémon Go Plus (codenamed "Sfida") is a battery-powered Bluetooth LE bracelet.
@@ -260,7 +262,15 @@ At present, it's still in progress, mainly because Go doesn't have wristband sup
 ___
 #Bots 
 
-##Python Pokémon Go Bot [[Github]](https://github.com/PokemonGoF/PokemonGo-Bot)
+####Python Pokémon Go Bot [[Github]] (https://github.com/TomTheBotter/Pokemon-Go-Bot-Working-Hack-API)
+
+From github:
+> This is one of the fastest bot that farms for Pokestops and Pokemon and super easy to level up. Incubate and hatch eggs by walking or catch rare pokemon fast! No bans with correct use as of now. Use with caution as with all bots. 
+
+
+[Discussion thread] (https://www.reddit.com/r/pokemongodev/comments/4ubwh0/open_source_pokemon_go_bot_very_fast120_in_56_hrs/)
+___
+####Python Pokémon Go Bot [[Github]](https://github.com/PokemonGoF/PokemonGo-Bot)
 
 From github:
 >Features:
@@ -272,21 +282,21 @@ Walking as you
 
 ___
 
-##Python Pokémon Go Bot [[Github]](https://github.com/eggins/Pokemon-Go-Automation)
+####Python Pokémon Go Bot [[Github]](https://github.com/eggins/Pokemon-Go-Automation)
 
 From github:
 > A Pokemon Go Bot (work in progress) This will contain all of my updates and slow build progress on a fully automated Pokemon Go bot. More than happy to take on someone with me to build something awesome
 
 ____
 
-##Python Pokémon Go Bot [[Github]](https://github.com/j-e-k/pgoapi)
+####Python Pokémon Go Bot [[Github]](https://github.com/j-e-k/pgoapi)
 
 From Discussion: 
 > Based on tejado/pgoapi (thanks). It does catching/movement/fort spinning/transferring bad pokemon. Caveat emptor, it's poorly documented and I haven't tested it on anyone else's machine...
 
 ___
 
-##Java Pokémon Go Bot [[Github]](https://github.com/jabbink/PokemonGoBot/releases/)
+####Java Pokémon Go Bot [[Github]](https://github.com/jabbink/PokemonGoBot/releases/)
 
 
 ___
